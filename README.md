@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nityanand Wachche</h1>
-<h3 align="center">Data engineer</h3>
+<h3 align="center">Data Engineer</h3>
 
 - 🔭 I’m currently working on [Soundexchange](Senior Data integration Specialist)
 
